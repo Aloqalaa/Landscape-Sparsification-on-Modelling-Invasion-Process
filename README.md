@@ -2,7 +2,7 @@
 
 These codes implement the full and R-local simulation methods. For details of these methods or to cite these codes please use the following reference.
 
-@inproceedings{AHW17,
+@inproceedings{AHW2017,
 
 Author = {Daniyah A. Aloqalaa and Jenny A. Hodgson and Prudence W.H. Wong},
 
