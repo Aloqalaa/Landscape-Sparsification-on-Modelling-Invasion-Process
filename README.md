@@ -17,6 +17,7 @@ note = {to appear}
 }
 # Required Modules and Libraries
 The following packages are required.
+
 - numpy library for loading numpy file, creating 2-dimensional array ..etc.  
 
 - math library for mathematical function (abs, sort, round, exp ..etc). This library is installed be default when installing Python.
@@ -24,6 +25,14 @@ The following packages are required.
 - random library for generating random number between 0 and 1. This library is installed be default when installing Python.
 
 - time library for compute the execution time of simulation. This library is installed be default when installing Python.
+# Instruction to run full_simulation.py and R_local_simulation.py programs
+
+-To compare full and R-local results on the same landscapes, the user need to run full simulation first, then R-local simulation. 
+
+-To implement the full_simulation.py or R_local_simulation.py program, data numpy file is required which stores a 2-dimensional array and represents the selected landscapes.For instance, the author chooses “high_5x300_landscape.npy” numpy file from the dataset=> study_landscapes folder. The user can choose another landscapes from the dataset folder.
+
+-The user need to specify the value of the dispersal distance which is defined as parameter alpha in line 12 in both programs (it is given 0.025)
+
 # Licensing and Re-distribution
 See the LICENCE file. You may use/re-distribute the codes if you do all of the following.
 
