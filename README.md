@@ -15,6 +15,14 @@ year = {2017},
 note = {to appear}
 
 }
+# Required Modules and Libraries
+- numpy library for loading numpy file, creating 2-dimensional array ..etc.  
+
+- math library for mathematical function (abs, sort, round, exp ..etc). This library is installed be default when installing Python.
+
+- random library for generating random number between 0 and 1. This library is installed be default when installing Python.
+
+- time library for compute the execution time of simulation. This library is installed be default when installing Python.
 # Licensing and Re-distribution
 See the LICENCE file. You may use/re-distribute the codes if you do all of the following.
 
