@@ -12,8 +12,8 @@ These codes implement the full and R-local simulation methods. For details of th
 # Licensing and Re-distribution
 See the LICENCE file. You may use/re-distribute WebSim if you do all of the following.
 
-* Request in writing via e-mail to me
+1. Request in writing via e-mail to me
 
-* agree to distribute the LICENCE file along with your software
+2. agree to distribute the LICENCE file along with your software
 
-* cite the paper and these codes in your publication.
+3. cite the paper and these codes in your publication.
