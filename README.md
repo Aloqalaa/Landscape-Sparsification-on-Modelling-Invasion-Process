@@ -4,9 +4,9 @@ These codes implement the full and R-local simulation methods. For details of th
 
 @inproceedings{AHW17,
 
-Author = {D.A.\ Aloqalaa and J.A.\ Hodgson and P.W.H.\ Wong},
+Author = {Daniyah A. Aloqalaa and Jenny A. Hodgson and Prudence W.H. Wong},
 
-Booktitle = {SEA},
+Booktitle = {Proceedings of the 16th International Symposium on Experimental Algorithms},
 
 Title = {The Impact of Landscape Sparsification on Modelling and Analysis of the Invasion Process},
 
