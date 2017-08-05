@@ -1,5 +1,5 @@
-#   Created by DANIYAH ALOQALAA on 22/08/2016.
-#   Python program for implementation of the full simulation method
+#  Created by DANIYAH ALOQALAA on 22/08/2016.
+#  This code implements the full simulation method.
 
 import numpy
 import numpy as np
