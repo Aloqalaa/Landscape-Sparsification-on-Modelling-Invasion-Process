@@ -14,6 +14,6 @@ See the LICENCE file. You may use/re-distribute the codes if you do all of the f
 
 1. Request in writing via e-mail to me
 
-2. agree to distribute the LICENCE file along with your software
+2. agree to distribute the LICENCE file along with your code
 
 3. cite the paper and these codes in your publication.
