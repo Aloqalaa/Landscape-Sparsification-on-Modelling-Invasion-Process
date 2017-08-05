@@ -16,6 +16,7 @@ note = {to appear}
 
 }
 # Required Modules and Libraries
+The following packages are required.
 - numpy library for loading numpy file, creating 2-dimensional array ..etc.  
 
 - math library for mathematical function (abs, sort, round, exp ..etc). This library is installed be default when installing Python.
