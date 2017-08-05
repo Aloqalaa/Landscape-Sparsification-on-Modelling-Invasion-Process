@@ -1,5 +1,5 @@
 #   Created by DANIYAH ALOQALAA on 22/08/2016.
-#   Python program for implementation of the R-local simulation method
+#   This code implements the R-local simulation method.
 
 import numpy
 import numpy as np
