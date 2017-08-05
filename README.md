@@ -25,7 +25,7 @@ The following packages are required.
 - random library for generating random number between 0 and 1. This library is installed be default when installing Python.
 
 - time library for compute the execution time of simulation. This library is installed be default when installing Python.
-# Instruction to run full_simulation.py and R_local_simulation.py programs
+# Instruction to run full_simulation.py and R_local_simulation.py codes
 
 -To compare full and R-local results on the same landscapes, the user need to run full simulation first, then R-local simulation. 
 
