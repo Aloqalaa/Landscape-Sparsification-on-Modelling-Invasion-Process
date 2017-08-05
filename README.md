@@ -14,9 +14,9 @@ See the LICENCE file. You may use/re-distribute WebSim if you do all of the foll
 
 *
 Request in writing via e-mail to me
-*
 
+*
 agree to distribute the LICENCE file along with your software
-*
 
+*
 cite the paper and this software in your publication.
