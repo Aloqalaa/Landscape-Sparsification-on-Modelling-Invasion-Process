@@ -33,6 +33,13 @@ The following packages are required.
 
 -The user need to specify the value of the dispersal distance which is defined as parameter alpha in line 12 in both programs (it is given 0.025)
 
+# More especial Instruction to run R_local_simulation.py program 
+
+-Before running R_local_simulation.py, the user need to give the local distance which is defined as parameter R in line 34 in the code.
+ 
+-The user need to give the total number of rounds needed for first, majority and all successes which are obtained from the full simulation by assigning these number of rounds to variables FS_FULL, MS_FULL, AS_FULL in lines 171, 172 and 173 in R_local_simulation.py code. 
+
+
 # Licensing and Re-distribution
 See the LICENCE file. You may use/re-distribute the codes if you do all of the following.
 
