@@ -15,6 +15,18 @@ year = {2017},
 note = {to appear}
 
 }
+# About the codes folder
+- The codes folder includes full_simulation.py and R_local_simulation.py source codes written using Python programming language to implement the full and R-local simulation methods.
+
+-The goal of both source codes is to count the number of rounds needed for first, majority and all successes and stop simulations at the stabilization time and count the average of execution time of simulation.
+
+# About the dataset folder
+The dataset folder includes two folders:
+
+- study_landscapes folder: includes three numpy files that stores a 2-dimensional array and represents the study landscapes extracted from LCM2007 (aggregate classes) UK maps.
+
+- validation_landscapes has four folders: 10x50_landscapes, 15x50_landscapes, 20x50_landscapes, 5x50_landscapes. Each folder includes nine numpy files where each file stores a 2-dimensional array and represents the extracted landscapes from LCM2007 (aggregate classes) UK maps which used for validating the proposed R-local simulation method.
+
 # Required Modules and Libraries
 The following packages are required.
 
