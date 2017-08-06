@@ -16,6 +16,7 @@ note = {to appear}
 
 }
 # About the codes folder
+
 - The codes folder includes full_simulation.py and R_local_simulation.py source codes written using Python programming language to implement the full and R-local simulation methods.
 
 -The goal of both source codes is to count the number of rounds needed for first, majority and all successes and stop simulations at the stabilization time and count the average of execution time of simulation.
