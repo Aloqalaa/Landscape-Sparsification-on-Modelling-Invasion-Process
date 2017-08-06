@@ -31,7 +31,7 @@ The following packages are required.
 
 -To implement the full_simulation.py or R_local_simulation.py program, data numpy file is required which stores a 2-dimensional array and represents the selected landscapes.For instance, the author chooses “high_5x300_landscape.npy” numpy file from the dataset=> study_landscapes folder. The user can choose another landscapes from the dataset folder.
 
--The user need to specify the value of the dispersal distance which is defined as parameter alpha in line 12 in both programs (it is given 0.025)
+-The user need to specify the value of the dispersal distance which is defined as parameter alpha in line 12 in both programs (it is given 0.25)
 
 # More especial Instruction to run R_local_simulation.py program 
 
